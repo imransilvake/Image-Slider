@@ -1,5 +1,5 @@
-# Image Slider
-An Image Slider on PHP OXID Framework
+# Multisite Image Slider
+A Multisite Image Slider on PHP OXID Framework
 
 ## Usage
 1. Home Page.
