@@ -1,6 +1,8 @@
 # Multisite Image Slider
 A Multisite Image Slider on PHP OXID Framework
 
+![Alt text](pictures/backend/03.PNG?raw=true "Multisite Image Slider")
+
 ## Usage
 1. Home Page.
 
