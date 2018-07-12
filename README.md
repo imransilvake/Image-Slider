@@ -28,5 +28,5 @@ A Multisite Image Slider on PHP OXID Framework
 [{/if}]
 ```
 
-## See Live
+## See Live (Frontend Slider)
 https://de.gedore-shop.com/
