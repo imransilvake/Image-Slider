@@ -3,6 +3,7 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
 
 ![Alt text](pictures/backend/03.PNG?raw=true "Multisite Image Slider")
 
+
 ## Usage
 1. Home Page.
 
