@@ -4,17 +4,6 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
 ![Alt text](pictures/backend/03.PNG?raw=true "Multisite Image Slider")
 
 
-## Libraries and Frameworks
-#### Internal
-- [X] [jQuery](https://jquery.com/)
-- [X] [Bootstrap](https://getbootstrap.com/)
-- [X] [Font Awesome](https://fontawesome.com/)
-- [X] [TinyMCE](https://www.tiny.cloud/)
-
-#### External 
-- [X] [OXID Framework](https://oxidforge.org/en/)
-
-
 ## Usage
 
 ### Home Page
@@ -38,6 +27,18 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
     [{/block}]
 [{/if}]
 ```
+
+
+## Libraries and Frameworks
+#### Internal
+- [X] [jQuery](https://jquery.com/)
+- [X] [Bootstrap](https://getbootstrap.com/)
+- [X] [Font Awesome](https://fontawesome.com/)
+- [X] [TinyMCE](https://www.tiny.cloud/)
+
+#### External 
+- [X] [OXID Framework](https://oxidforge.org/en/)
+
 
 ## See Live
 https://de.gedore-shop.com/
