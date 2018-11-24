@@ -13,14 +13,12 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
 
 ## Libraries and Frameworks
 
-#### Internal
+#### External 
+- [X] [OXID Framework](https://oxidforge.org/en/)
 - [X] [jQuery](https://jquery.com/)
 - [X] [Bootstrap](https://getbootstrap.com/)
 - [X] [Font Awesome](https://fontawesome.com/)
 - [X] [TinyMCE](https://www.tiny.cloud/)
-
-#### External 
-- [X] [OXID Framework](https://oxidforge.org/en/)
 
 
 ## Usage
