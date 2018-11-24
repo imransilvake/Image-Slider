@@ -5,8 +5,8 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
 
 
 ## Usage
-1. Home Page.
 
+### Home Page
 ```
 [{* dwstage *}]
 [{assign var="active_module" value=$oView->active_module}]
@@ -17,8 +17,7 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
 [{/if}]
 ```
 
-2. Category Page.
-
+### Category Page
 ```
 [{* dwstage *}]
 [{assign var="active_module" value=$oView->active_module}]
@@ -29,5 +28,5 @@ A Multisite Image Slider build to handle companies multiple websites from a cent
 [{/if}]
 ```
 
-## See Live (Frontend Slider)
+## See Live
 https://de.gedore-shop.com/
