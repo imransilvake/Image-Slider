@@ -1,5 +1,5 @@
 # Multisite Image Slider
-A Multisite Image Slider build to handle companies multiple websites from a central place. It is built using PHP OXID Framework.
+A Multisite Image Slider build to handle company's multiple websites from a central place. It is built using PHP OXID Framework.
 
 ![Alt text](pictures/backend/03.PNG?raw=true "Multisite Image Slider")
 
