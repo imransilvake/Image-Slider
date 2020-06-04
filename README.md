@@ -44,7 +44,3 @@ A Multisite Image Slider build to handle company's multiple websites from a cent
     [{/block}]
 [{/if}]
 ```
-
-
-## See Live
-https://de.gedore-shop.com/
